@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Abdelkader_Imen_I1_DevMobil_Mesure_Glycemie</string>
+    <string name="text">Mesure de niveau de \n glycémie</string>
+    <string name="tvAgeText">Votre âge :</string>
+    <string name="maxAge">120</string>
+    <string name="tvJeunezText">Est-ce que vous jeûnez ?</string>
+    <string name="ouiText">Oui</string>
+    <string name="nonText">Non</string>
+    <string name="valeurGlycemie">Valeur Mesurée (en mmol/l)</string>
+    <string name="consulterText">Consulter</string>
+
+</resources>
